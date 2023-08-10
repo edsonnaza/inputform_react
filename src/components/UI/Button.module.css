@@ -16,3 +16,11 @@
   .button:focus {
     outline: none;
   }
+   
+  .buttonAlt {
+    font-family: 'Roboto Condensed', sans-serif;
+    border: none;
+    background: transparent;
+    color: #c2e9e0;
+    cursor: pointer;
+  }

@@ -14,3 +14,9 @@
     margin: 0.5rem 0;
     padding: 0.5rem;
   }
+
+  .input-group {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 1.5rem;
+  }
